@@ -4,8 +4,8 @@
 
 ### Git
 
-- [ ] Découverte de LazyGit
-  - [ ] Installation et configuration
+- [x] Découverte de LazyGit
+  - [x] Installation et configuration
   - [ ] Intégration dans son editeur / workflow
   - [ ] Faire le tour du propriétaire
 - [ ] `.gitignore` global ou pas ?
